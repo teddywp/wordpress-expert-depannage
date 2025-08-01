@@ -34,13 +34,6 @@ WordPress propulse **43% des sites web mondiaux**, mais reste complexe à mainte
 - **Protection contre les attaques brute force**
 - **Nettoyage post-piratage**
 
-### ⚡ [Optimisation de performance](./guides/performance/)
-- **Diagnostic de lenteur**
-- **Optimisation base de données**
-- **Configuration cache avancée**
-- **Core Web Vitals WordPress**
-- **Optimisation images et médias**
-
 ### 🛠️ [Scripts utiles](./scripts/)
 - **Scripts de diagnostic automatisé**
 - **Outils de nettoyage de base**
