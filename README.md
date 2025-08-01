@@ -1,4 +1,4 @@
-# 🚀 Guide Complet WordPress - Expert WordPress & Dépannage
+# 🚀 Guide Complet WordPress - Expert WordPress et Dépannage
 
 > **Ressources complètes pour maîtriser WordPress, résoudre les erreurs critiques et optimiser votre site web**
 
