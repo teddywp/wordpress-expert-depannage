@@ -21,7 +21,7 @@ Ce guide expert vous accompagne dans le processus complet de détection, nettoya
 
 ### 🚀 Solution Expert Recommandée
 
-**Pour une détection et un nettoyage optimal, nous recommandons fortement l'utilisation de notre [Scanner Malware TeddyWP](#https://github.com/teddywp/wordpress-expert-depannage/blob/main/scripts/scanner-malware-teddywp.php)** - l'outil professionnel que nous utilisons quotidiennement sur nos interventions. Cet outil combine 12 années d'expérience terrain avec les dernières techniques de détection malware.
+**Pour une détection et un nettoyage optimal, nous recommandons fortement l'utilisation de notre [Scanner Malware TeddyWP](#-scanner-malware-teddywp---loutil-expert)** - l'outil professionnel que nous utilisons quotidiennement sur nos interventions. Cet outil combine 12 années d'expérience terrain avec les dernières techniques de détection malware.
 
 ### Pourquoi la sécurisation WordPress est-elle cruciale ?
 
@@ -33,7 +33,7 @@ Les conséquences d'une infection malware vont bien au-delà d'un simple désagr
 - **Données** : Vol d'informations clients et violations RGPD
 - **Coûts** : Le coût moyen de nettoyage d'un site infecté varie entre 500€ et 5000€
 
-⚠️ **Avertissement professionnel** : La décontamination de malware WordPress requiert une expertise technique pointue. En cas de doute, **[contactez nos experts en dépannage WordPress](https://teddywp.com/depannage-wordpress/)** pour une intervention sécurisée.
+⚠️ **Avertissement professionnel** : La décontamination de malware WordPress requiert une expertise technique pointue. En cas de doute, **[contactez Teddy l'expert en dépannage WordPress](https://teddywp.com/depannage-wordpress/)** pour une intervention sécurisée.
 
 ## 🛡️ Scanner Malware TeddyWP - L'outil Expert
 
@@ -293,7 +293,7 @@ tar -czf backup-pre-scan-$(date +%Y%m%d).tar.gz /var/www/wordpress/
 - 🚨 **Intervention d'urgence** si le scanner détecte une infection complexe
 - 🛠️ **Nettoyage manuel** pour cas non résolus automatiquement  
 - 🎓 **Formation équipe** à l'utilisation avancée
-- 📞 **[Contactez nos experts](https://teddywp.com/depannage-wordpress/)** pour assistance prioritaire
+- 📞 **[Contactez Teddy l'expert WordPress](https://teddywp.com/depannage-wordpress/)** pour assistance prioritaire
 
 ---
 
@@ -681,7 +681,7 @@ Le Scanner TeddyWP génère automatiquement :
 
 ### Intervention Experte avec Scanner TeddyWP
 
-Bien que notre **Scanner Malware TeddyWP** résolve automatiquement **95% des infections WordPress**, certaines situations nécessitent l'intervention d'experts en sécurisation WordPress. **[Notre service de dépannage WordPress](https://teddywp.com/depannage-wordpress/)** utilise ce même scanner en combinaison avec notre expertise pour les cas les plus complexes.
+Bien que notre **Scanner Malware TeddyWP** résolve automatiquement **95% des infections WordPress**, certaines situations nécessitent l'intervention d'experts en sécurisation WordPress. **[Mon service de dépannage WordPress](https://teddywp.com/depannage-wordpress/)** utilise ce même scanner en combinaison avec notre expertise pour les cas les plus complexes.
 
 ### Quand le Scanner TeddyWP Recommande une Intervention Experte
 
@@ -779,7 +779,7 @@ Bien que notre **Scanner Malware TeddyWP** résolve automatiquement **95% des in
 
 ### Contactez nos Experts Scanner TeddyWP
 
-Pour une **sécurisation WordPress** professionnelle optimisée par notre scanner, **[contactez notre équipe d'experts](https://teddywp.com/depannage-wordpress/)** :
+Pour une **sécurisation WordPress** professionnelle optimisée par notre scanner, **[contactez-moi](https://teddywp.com/depannage-wordpress/)** :
 
 - 🔍 **Diagnostic Scanner TeddyWP** inclus et pré-analysé
 - 📊 **Intervention ciblée** sur problèmes complexes uniquement
@@ -1163,4 +1163,4 @@ Pour les **infections complexes** ou les **besoins spécifiques**, notre équipe
 
 ---
 
-*Développé avec passion par l'équipe [TeddyWP](https://teddywp.com/) - Experts WordPress depuis 2012*
+*Développé avec passion par [TeddyWP](https://teddywp.com/) - Expert WordPress depuis 2012*
