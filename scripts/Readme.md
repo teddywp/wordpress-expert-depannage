@@ -1,4 +1,4 @@
-# 🛡️ Scripts WordPress Expert by TeddyWP
+# 🛡️ Scripts WordPress Expert par TeddyWP
 
 [![GitHub](https://img.shields.io/badge/GitHub-teddywp-blue)](https://github.com/teddywp/wordpress-expert-guide)
 [![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-blue)](https://wordpress.org/)
