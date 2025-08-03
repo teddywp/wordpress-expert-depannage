@@ -1,6 +1,6 @@
 # 🚀 Guide Complet WordPress - Expert WordPress et Dépannage
 
-> **Ressources complètes pour maîtriser WordPress, résoudre les erreurs critiques et optimiser votre site web**
+> **Ressources complètes pour maîtriser WordPress, résoudre les erreurs critiques, réparer et sécuriser votre site WordPress**
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
